@@ -1,8 +1,10 @@
 ## Platform as a Service (PaaS)
+<!-- .slide: data-background-image="img/platforms.jpg" -->
 ###### OngoingMedia GmbH - ©Tobias Wessels - 04/2021
 
 ---
 ## Definition
+<!-- .slide: data-background-image="img/clouds.jpg" -->
 "Als PaaS bezeichnet man eine Dienstleistung, die in der Cloud eine <ins>Computer-Plattform zur Entwicklung von Webanwendungen</ins> zur Verfügung stellt. Sie unterstützen den gesamten Software-Lebenszyklus vom Design über die Entwicklung, den Test, die Auslieferung bis hin zum Betrieb der Webanwendungen über das Internet. PaaS ist ein Teil von 
 [Everything as a Service](https://de.wikipedia.org/wiki/Everything_as_a_Service)."
 
@@ -187,7 +189,7 @@ $ heroku logs --tail
 --
 ## Fazit
   * Läuft auf AWS → Kosten können hoch werden! 💰
-  * Im Free-Tier werden Dynos noch 30 min gestoppt 😴
+  * Im Free-Tier werden Dynos nach 30 min gestoppt 😴
   * Wird ergänzt durch [150+ Plugins](https://elements.heroku.com) 💊
   * Vendor lock-in
 --
